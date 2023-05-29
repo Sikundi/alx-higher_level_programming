@@ -7,3 +7,4 @@ This repository contains programs written for the higher-level programming at AL
 * [0x02. Python - import & modules](./0x02-python-import_modules)
 * [0x03. Python - data structures](./0x03-python-data_structures)
 * [0x04. Python - more data structures](./0x04-more_data_structures)
+* [0x05. Python - exceptions](.0x05-python-exceptions)
